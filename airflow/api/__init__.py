@@ -24,7 +24,7 @@ from airflow.exceptions import AirflowConfigException, AirflowException
 
 log = logging.getLogger(__name__)
 
-
+# Add sample commit
 def load_auth():
     """Loads authentication backend"""
     auth_backend = 'airflow.api.auth.backend.default'
