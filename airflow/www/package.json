@@ -66,9 +66,9 @@
     "dagre-d3": "^0.6.4",
     "datatables.net": "^1.10.23",
     "datatables.net-bs": "^1.10.23",
-    "eonasdan-bootstrap-datetimepicker": "^4.17.47",
+    "eonasdan-bootstrap-datetimepicker": "^4.17.49",
     "jquery": ">=3.4.0",
-    "moment-timezone": "^0.5.28",
+    "moment-timezone": "^0.5.41",
     "nvd3": "^1.8.6",
     "redoc": "^2.0.0-rc.48",
     "url-search-params-polyfill": "^8.1.0"
